@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/madhavtutorial/static/css/main.b293e368.css",
+    "main.js": "/madhavtutorial/static/js/main.738d61ed.js",
+    "static/js/453.ba807d07.chunk.js": "/madhavtutorial/static/js/453.ba807d07.chunk.js",
+    "index.html": "/madhavtutorial/index.html",
+    "main.b293e368.css.map": "/madhavtutorial/static/css/main.b293e368.css.map",
+    "main.738d61ed.js.map": "/madhavtutorial/static/js/main.738d61ed.js.map",
+    "453.ba807d07.chunk.js.map": "/madhavtutorial/static/js/453.ba807d07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b293e368.css",
+    "static/js/main.738d61ed.js"
+  ]
+}
